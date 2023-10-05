@@ -1,4 +1,4 @@
-# Portfolio
+# yandex_practicum_DS_projects
 В данном репозитории представлены некоторые реализованные проекты.
 
 ## [1. EDA: Исследование успешности компьютерных игр.](https://github.com/Lvsnv/Portfolio/tree/main/EDA_games)
